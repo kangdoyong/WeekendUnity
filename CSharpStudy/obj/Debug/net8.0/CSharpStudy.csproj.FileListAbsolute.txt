@@ -1,0 +1,14 @@
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\obj\Debug\net8.0\CSharpStudy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\obj\Debug\net8.0\CSharpStudy.AssemblyInfoInputs.cache
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\obj\Debug\net8.0\CSharpStudy.AssemblyInfo.cs
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\obj\Debug\net8.0\CSharpStudy.csproj.CoreCompileInputs.cache
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\bin\Debug\net8.0\CSharpStudy.exe
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\bin\Debug\net8.0\CSharpStudy.deps.json
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\bin\Debug\net8.0\CSharpStudy.runtimeconfig.json
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\bin\Debug\net8.0\CSharpStudy.dll
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\bin\Debug\net8.0\CSharpStudy.pdb
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\obj\Debug\net8.0\CSharpStudy.dll
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\obj\Debug\net8.0\refint\CSharpStudy.dll
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\obj\Debug\net8.0\CSharpStudy.pdb
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\obj\Debug\net8.0\CSharpStudy.genruntimeconfig.cache
+C:\Users\rkden\OneDrive\바탕 화면\CSharpStudy\CSharpStudy\obj\Debug\net8.0\ref\CSharpStudy.dll
